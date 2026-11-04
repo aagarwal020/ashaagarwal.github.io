@@ -1,0 +1,27 @@
+---
+title: "Asha Agarwal"
+image: images/headshot.jpg
+about:
+  template: jolla
+  links:
+    # - icon: github
+    #   text: GitHub
+    #   href: https://github.com/yourusername
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/asha-agarwal-321574301
+    - icon: envelope
+      text: Email
+      href: mailto:asha.agarwal2@case.edu
+---
+
+Hello and welcome to my website! My name is Asha Agarwal and I am a first-year Epidemiology and Biostatistics Ph.D. student at the Case Western Reserve University School of Medicine. I am located within the Population and Quantitative Health Department, where we study, model, and design interventions to address health outcomes among populations on the local all the way to the global level.
+
+I am interested in using community-engaged methods to address the health outcomes of adolescents and predominantly immigrant or minority communities. I am learning about mixed-methods approaches, community-based participatory research, and intervention science—primarily in the context of the greater Cleveland community. Through my research rotations, I will be learning under the mentorship of Dr. Jin Kim-Mozeleski, Dr. Erika Trapl, and Dr. Fredrick Schumacher. 
+
+
+<!-- ## Interests -->
+
+<!-- - Topic one -->
+<!-- - Topic two -->
+<!-- - Topic three -->

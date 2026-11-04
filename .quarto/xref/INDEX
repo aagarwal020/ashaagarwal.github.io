@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "8a7cedac"
+  },
+  "about.qmd": {
+    "about.html": "ba553dee"
+  },
+  "projects.qmd": {
+    "projects.html": "1f665895"
+  },
+  "cv.qmd": {
+    "cv.html": "4d4b9cd2"
+  },
+  "education.qmd": {
+    "education.html": "a043ef6f"
+  },
+  "projects_experience.qmd": {
+    "projects_experience.html": "b371ac36"
+  },
+  "education_experience.qmd": {
+    "education_experience.html": "703a83b9"
+  }
+}

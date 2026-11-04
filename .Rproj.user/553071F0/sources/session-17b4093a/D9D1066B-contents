@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Asha Agarwal"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: education_experience.qmd
+        text: Education & Experience        
+      - href: cv.qmd
+        text: CV
+      # - icon: github
+      #   href: https://github.com/yourusername
+      - icon: linkedin
+        href: www.linkedin.com/in/asha-agarwal-321574301
+      - icon: envelope
+        href: mailto:asha.agarwal2@case.edu
+  page-footer: "© 2026 Asha Agarwal"
+
+format:
+  html:
+    theme: superhero
+    css: styles.css
+    toc: true
+    link-external-newwindow: true
+
+editor: visual
+

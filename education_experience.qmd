@@ -1,0 +1,120 @@
+---
+title: "Education & Experience"
+---
+
+## Education
+
+::: {.edu-entry}
+::: {.school}
+Case Western Reserve University School of Medicine
+:::
+::: {.dates}
+Aug 2026 – present
+:::
+:::
+
+Ph.D. Student, Epidemiology and Biostatistics · *Cleveland, OH*
+
+::: {.edu-entry}
+::: {.school}
+Oberlin College and Conservatory
+:::
+::: {.dates}
+Aug 2022 – May 2026
+:::
+:::
+
+B.A. in Biology; Minors in Politics and Chemistry · *Oberlin, OH*
+
+::: {.edu-entry}
+::: {.school}
+Sciences Po
+:::
+::: {.dates}
+Aug 2025 – Dec 2025
+:::
+:::
+
+Exchange Student · *Paris, France*
+
+::: {.edu-entry}
+::: {.school}
+Homestead High School
+:::
+::: {.dates}
+Aug 2018 – Jun 2022
+:::
+:::
+
+High School Diploma · *Cupertino, CA*
+
+## Experience
+
+::: {.edu-entry}
+::: {.school}
+Prevention Research Center for Healthy Neighborhoods
+:::
+::: {.dates}
+Mar 2026 – Jun 2026
+:::
+:::
+
+Intern · *Case Western Reserve University, Cleveland, OH*
+
+- Conducted research to support NIH grant proposals
+- Carried out secondary coding of 2025 Cleveland Health Survey qualitative data
+
+::: {.edu-entry}
+::: {.school}
+International Fund for Public Interest Media
+:::
+::: {.dates}
+Oct 2025 – Jan 2026
+:::
+:::
+
+Strategy and Risk Intern · *Paris, France*
+
+- Reviewed 650+ grantee financial documents to enable new financial analysis process
+- Supported policy development ensuring grantee organizations' journalist safety and positive environmental impact
+
+::: {.edu-entry}
+::: {.school}
+Ideastream Public Media
+:::
+::: {.dates}
+Jun 2025 – Aug 2025
+:::
+:::
+
+Producing Intern · *Cleveland, OH*
+
+- Co-produced Sound of Ideas segments, with a focus on health reporting
+
+::: {.edu-entry}
+::: {.school}
+Student Finance Committee, Oberlin College
+:::
+::: {.dates}
+Aug 2023 – May 2025
+:::
+:::
+
+Committee Member · *Oberlin, OH*
+
+- Co-managed the disbursement of the college's $1.9M Student Activity Fund to student government bodies, organizations, and publications
+- Co-wrote policies guiding allocation of funds and managed student outreach
+
+::: {.edu-entry}
+::: {.school}
+Heliofarm Electric Corporation
+:::
+::: {.dates}
+Jan 2018 – Aug 2023
+:::
+:::
+
+Assistant Electrician · *Sunnyvale, CA*
+
+- Installed rooftop photovoltaic systems as part of a 2–3 person crew
+- Performed electrical panel upgrades and electrical wiring for battery storage systems
