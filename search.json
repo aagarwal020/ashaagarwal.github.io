@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download PDF"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "education_experience.html",
+    "href": "education_experience.html",
+    "title": "Education & Experience",
+    "section": "",
+    "text": "Case Western Reserve University School of Medicine\n\n\nAug 2026 – present\n\n\nPh.D. Student, Epidemiology and Biostatistics · Cleveland, OH\n\n\nOberlin College and Conservatory\n\n\nAug 2022 – May 2026\n\n\nB.A. in Biology; Minors in Politics and Chemistry · Oberlin, OH\n\n\nSciences Po\n\n\nAug 2025 – Dec 2025\n\n\nExchange Student · Paris, France\n\n\nHomestead High School\n\n\nAug 2018 – Jun 2022\n\n\nHigh School Diploma · Cupertino, CA"
+  },
+  {
+    "objectID": "education_experience.html#education",
+    "href": "education_experience.html#education",
+    "title": "Education & Experience",
+    "section": "",
+    "text": "Case Western Reserve University School of Medicine\n\n\nAug 2026 – present\n\n\nPh.D. Student, Epidemiology and Biostatistics · Cleveland, OH\n\n\nOberlin College and Conservatory\n\n\nAug 2022 – May 2026\n\n\nB.A. in Biology; Minors in Politics and Chemistry · Oberlin, OH\n\n\nSciences Po\n\n\nAug 2025 – Dec 2025\n\n\nExchange Student · Paris, France\n\n\nHomestead High School\n\n\nAug 2018 – Jun 2022\n\n\nHigh School Diploma · Cupertino, CA"
+  },
+  {
+    "objectID": "education_experience.html#experience",
+    "href": "education_experience.html#experience",
+    "title": "Education & Experience",
+    "section": "Experience",
+    "text": "Experience\n\n\nPrevention Research Center for Healthy Neighborhoods\n\n\nMar 2026 – Jun 2026\n\n\nIntern · Case Western Reserve University, Cleveland, OH\n\nConducted research to support NIH grant proposals\nCarried out secondary coding of 2025 Cleveland Health Survey qualitative data\n\n\n\nInternational Fund for Public Interest Media\n\n\nOct 2025 – Jan 2026\n\n\nStrategy and Risk Intern · Paris, France\n\nReviewed 650+ grantee financial documents to enable new financial analysis process\nSupported policy development ensuring grantee organizations’ journalist safety and positive environmental impact\n\n\n\nIdeastream Public Media\n\n\nJun 2025 – Aug 2025\n\n\nProducing Intern · Cleveland, OH\n\nCo-produced Sound of Ideas segments, with a focus on health reporting\n\n\n\nStudent Finance Committee, Oberlin College\n\n\nAug 2023 – May 2025\n\n\nCommittee Member · Oberlin, OH\n\nCo-managed the disbursement of the college’s $1.9M Student Activity Fund to student government bodies, organizations, and publications\nCo-wrote policies guiding allocation of funds and managed student outreach\n\n\n\nHeliofarm Electric Corporation\n\n\nJan 2018 – Aug 2023\n\n\nAssistant Electrician · Sunnyvale, CA\n\nInstalled rooftop photovoltaic systems as part of a 2–3 person crew\nPerformed electrical panel upgrades and electrical wiring for battery storage systems"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "My first research rotation as a Ph.D. student involved recoding qualitative data from the 2025 Cleveland Health Survey. This was an iterative process during which I developed a new codebook that can be used for future Cleveland Health Surveys or to conduct preliminary exploratory analysis of the 2025 data. This was a ten-week process that gave me a deeper understanding of the issues that Cleveland residents face in their communities, as described in their own words."
+  },
+  {
+    "objectID": "projects.html#cleveland-health-survey",
+    "href": "projects.html#cleveland-health-survey",
+    "title": "Projects",
+    "section": "",
+    "text": "My first research rotation as a Ph.D. student involved recoding qualitative data from the 2025 Cleveland Health Survey. This was an iterative process during which I developed a new codebook that can be used for future Cleveland Health Surveys or to conduct preliminary exploratory analysis of the 2025 data. This was a ten-week process that gave me a deeper understanding of the issues that Cleveland residents face in their communities, as described in their own words."
+  },
+  {
+    "objectID": "projects.html#sound-of-ideas",
+    "href": "projects.html#sound-of-ideas",
+    "title": "Projects",
+    "section": "Sound of Ideas",
+    "text": "Sound of Ideas\nPublic health segments produced or co-produced by me for the Sound of Ideas, the morning public affairs show on Ideastream Public Media, Cleveland’s NPR station. For more segments, click here.\n\nNortheast Ohio experts discuss homelessness and federal efforts to deter crime and drug use (listen)\nFree clinics brace for larger role with Medicaid cuts looming (listen)\nMajor changes to Medicaid could impact access to coverage for Ohioans (listen)\nWhere does the opioid overdose epidemic stand in Cuyahoga County and Cleveland? (listen)"
+  },
+  {
+    "objectID": "projects.html#role-of-the-rfa2-winged-helix-domain",
+    "href": "projects.html#role-of-the-rfa2-winged-helix-domain",
+    "title": "Projects",
+    "section": "Role of the Rfa2 winged-helix domain",
+    "text": "Role of the Rfa2 winged-helix domain\nDuring a semester as a student and researcher with Dr. Alex Pike at Oberlin College, I performed molecular biology experiments to mutate the winged-helix domain of the Rfa2 protein in S. cerevisiae and test cellular response to DNA damage from UV light. Results were used to support hypothesis testing surrounding the role that the winged-helix domain plays in DNA damage response, an important pathway to understand for cancer research."
+  },
+  {
+    "objectID": "projects.html#qsar-model-predicting-ligand-compatibility-with-prostate-specific-membrane-antigen",
+    "href": "projects.html#qsar-model-predicting-ligand-compatibility-with-prostate-specific-membrane-antigen",
+    "title": "Projects",
+    "section": "QSAR model predicting ligand compatibility with prostate-specific membrane antigen",
+    "text": "QSAR model predicting ligand compatibility with prostate-specific membrane antigen\nAs a computational biology research assistant to Dr. Zahra Nikfarjam, I used software like LeDock and AutoDock to simulate the binding of various ligands to the prostate-specific membrane antigen (PSMA). Ligands were synthesized using prior literature on PSMA ligand structures and pharmacokinetic properties, then altering the ligand composition to maximize fit. The results of docking simulations were used to refine a quantitative structure-activity relationship (QSAR) model."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Asha Agarwal",
+    "section": "",
+    "text": "Hello and welcome to my website! My name is Asha Agarwal and I am a first-year Epidemiology and Biostatistics Ph.D. student at the Case Western Reserve University School of Medicine. I am located within the Population and Quantitative Health Department, where we study, model, and design interventions to address health outcomes among populations on the local all the way to the global level.\nI am interested in using community-engaged methods to address the health outcomes of adolescents and predominantly immigrant or minority communities. I am learning about mixed-methods approaches, community-based participatory research, and intervention science—primarily in the context of the greater Cleveland community. Through my research rotations, I will be learning under the mentorship of Dr. Jin Kim-Mozeleski, Dr. Erika Trapl, and Dr. Fredrick Schumacher."
+  }
+]

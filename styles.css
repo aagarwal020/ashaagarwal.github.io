@@ -1,0 +1,12 @@
+/* css styles */
+
+.edu-entry {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-top: 1.25rem;
+}
+.edu-entry p { margin: 0; }
+.edu-entry .school { font-weight: 700; }
+.edu-entry .dates { font-style: italic; white-space: nowrap; }
+.edu-entry + p { margin: 0 0 0.25rem 0; }
